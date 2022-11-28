@@ -1,0 +1,18 @@
+.docDetail {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+
+  .userDetail {
+    display: flex;
+    flex-direction: row;
+  }
+
+   
+  #regForm {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+
